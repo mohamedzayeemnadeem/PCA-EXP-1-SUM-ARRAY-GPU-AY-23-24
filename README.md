@@ -1,5 +1,5 @@
 # PCA: EXP-1  SUM ARRAY GPU
-<h3>ENTER YOUR NAME: Mohamed Zayeem Nadeem G</h3>
+<h3>ENTER YOUR NAME: Mohamed Zayeem Nadeem </h3>
 <h3>ENTER YOUR REGISTER NO: 212222040102</h3>
 <h3>EX. NO: 01</h3>
 <h3>DATE: 27.08.2024</h3>
